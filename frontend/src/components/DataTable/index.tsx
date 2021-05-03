@@ -1,14 +1,14 @@
 function DataTable() {
     return (
         <div className="table-responsive">
-            <table className="table table-striped table-sm">
+            <table className="table table-striped table-sm text-center">
                 <thead>
                     <tr>
-                        <th>Data</th>
-                        <th>Vendedor</th>
-                        <th>Clientes visitados</th>
-                        <th>Negócios fechados</th>
-                        <th>Valor</th>
+                        <th>Date</th>
+                        <th>Seller</th>
+                        <th>Customers visited</th>
+                        <th>Closed deals</th>
+                        <th>Value</th>
                     </tr>
                 </thead>
                 <tbody>
