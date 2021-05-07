@@ -11,7 +11,7 @@ O projeto está hospedado na nuvem, o backend no [Heroku](https://www.heroku.com
 
 A aplicação em funcionamento pode ser acessada [clicando aqui](https://devsales-dashboard.netlify.app/).
 
-![dashboard](https://github.com/tassisfernando/sds3-project/blob/master/dashboard.png?raw=true)
+![dashboard](https://github.com/tassisfernando/sds3-project/blob/master/frontend/public/dashboard.png?raw=true)
 
 ## License
 
